@@ -38,3 +38,5 @@ Pull requests, suggestions, and improvements are welcome. Feel free to fork this
 This project is distributed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
 ---
+
+<p align="center">Made with ❤️ by <a href="https://github.com/SnehaTanwar006">Sneha Tanwar</a></p>
